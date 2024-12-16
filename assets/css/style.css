@@ -198,9 +198,10 @@
 .input {
     border: 1px solid #00000033;
     padding: 24px 150px 24px 22px;
+    gap: 0px;
     border-radius: 0px 100px 100px 50px;
-    border: 1px;
-    opacity: 0;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
     width: 100%;
     outline: 0;
     font-family: Helvetica;
